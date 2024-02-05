@@ -44,19 +44,6 @@ Python implementation of AVH and baselines reported in paper [Auto-Validate by-H
 - `robust_discovery.py`: [Robust discovery of positive and negative rules in knowledge bases][6]
 
 
-## Benchmark data
-- Unzip data.zip to ./data foler, which has our experiment data
- * **./data**
-   * **categorical data**: categorical data used in training and testing 
-   * **category_pool**: a large pool of real datasets from which we search for categorical data that are similar to benchmark test data but still statstically different
-   * **numerical data**: numerical data used in training and testing 
-   * **numeric_pool**: a large pool of real datasets from which we search for numerical data that are similar to benchmark test data but still statstically different
-   * **synthesis_0907**
-      * **category**: sysnthetical categorical data for training
-      * **category_test**: sysnthetical categorical data for testing
-      * **numeric**: sysnthetical numerical data for training
-      * **numeric_test**:sysnthetical numerical data for testing
-
 
   [1]: https://dl.acm.org/doi/pdf/10.1145/3292500.3330680?casa_token=DnN65_1ImG8AAAAA:Ca4a-BMUfcaPHm8nL5x25qhvZgnyTRc5IA0VDMzetcRQX8aGkSzAxbr3W-pNb3faoCQVLHxynuvy
   [2]: https://dl.acm.org/doi/pdf/10.1145/3299869.3320210?casa_token=NWEb7cqiqqYAAAAA:V_bWDiX7gVxLTldVLMFyr-wYrKTk5lPjEz92wYZpfP2XOpeZJw4OLqTRv-DSMH8q9eZ_WWNji-NX
