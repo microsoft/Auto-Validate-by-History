@@ -1,0 +1,6 @@
+cocos
+cubature
+xgboost
+azureml
+azureml.core
+azureml.datadrift
