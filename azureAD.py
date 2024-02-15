@@ -3,7 +3,7 @@
 # Endpoint examples:
 # https://westus2.api.cognitive.microsoft.com/anomalydetector/v1.0/timeseries/last/detect
 # http://127.0.0.1:5000/anomalydetector/v1.0/timeseries/last/detect
-apikey = 'REMOVED'
+apikey = ''
 endpoint_latest = 'https://dv-test.cognitiveservices.azure.com/anomalydetector/v1.0/timeseries/last/detect'
 
 

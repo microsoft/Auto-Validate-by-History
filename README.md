@@ -1,6 +1,8 @@
 # Auto-Validate by-History (AVH)
 
-Python implementation of AVH and baselines reported in paper [Auto-Validate by-History: Auto-Program Data Quality Constraints to Validate Recurring Data Pipelines]. Can follow the steps below to reproduce results.
+Python implementation of AVH and baselines reported in paper [Auto-Validate by-History: Auto-Program Data Quality Constraints to Validate Recurring Data Pipelines](https://dl.acm.org/doi/abs/10.1145/3580305.3599776). Can follow the steps below to reproduce results.
+
+Please contact Dezhan Tu (dztu AT g.ucla.edu) and Yeye He (yeyehe AT microsoft.com) for questions or feedback.
 
 ## Dependencies
 - Ubuntu 18.04, [Anaconda 3.5+](https://www.anaconda.com/)
